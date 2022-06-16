@@ -1,5 +1,5 @@
 # SICP
-Structure and Interpretation of Computer Programs 2th 책에 대한 공부내용을 정리하는 repository 입니다. 해당 책은 오래전 MIT에서 강의하던 내용이빈다. 현대 프로그래밍에서 이 책을 공부하는게 쓸모 있는가에 대한 논의가 있긴하지만, [Teach Yourself Computer Science](https://teachyourselfcs.com/) 에서 추천했기에 한번 공부해보기로 했습니다.  
+Structure and Interpretation of Computer Programs 2th 책에 대한 공부내용을 정리하는 repository 입니다. 해당 책은 오래전 MIT에서 강의하던 내용입니다. 현대 프로그래밍에서 이 책을 공부하는게 쓸모 있는가에 대한 논의가 있긴하지만, [Teach Yourself Computer Science](https://teachyourselfcs.com/) 에서 추천했기에 한번 공부해보기로 했습니다.  
 
 
 ### 사용도구
